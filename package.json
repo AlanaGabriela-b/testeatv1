@@ -1,0 +1,15 @@
+{
+  "name": "testeatv1",
+  "version": "1.0.0",
+  "description": "Aplicação simples de coleta de feedbacks em memória.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js",
+    "test": "echo \"No automated tests configured\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
